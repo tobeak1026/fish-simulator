@@ -1,0 +1,29 @@
+{
+  "name": "fish-simulator",
+  "version": "1.0.0",
+  "description": "fish simulator using glmatrix & detect-collisions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobeak1026/fishsimulator.git"
+  },
+  "keywords": [
+    "fish",
+    "simulator",
+    "detect-collisions",
+    "glmatrix"
+  ],
+  "author": "tobeak1026",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobeak1026/fishsimulator/issues"
+  },
+  "homepage": "https://github.com/tobeak1026/fishsimulator#readme",
+  "dependencies": {
+    "detect-collisions": "^2.4.4",
+    "gl-matrix": "^3.1.0"
+  }
+}
