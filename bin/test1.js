@@ -1,4 +1,7 @@
 const Simulator = require('../index');
 
 
-console.log(Simulator);
+let sim = new Simulator();
+sim.startup();
+
+console.log(sim);
