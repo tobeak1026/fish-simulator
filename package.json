@@ -1,6 +1,6 @@
 {
   "name": "fish-simulator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fish simulator using glmatrix & detect-collisions",
   "main": "index.js",
   "scripts": {
